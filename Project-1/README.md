@@ -30,7 +30,7 @@
 
 * Итоговый Jupyter-ноутбук с результатами проекта загружен на GitHub.
 
-Анализ данных и построение графиков, которое выполняется с использованием библиотеки plotly.express сохраняется в HTML для скачивания и просмотра через веб-браузер. [Figs](hhttps://github.com/mazurandrii92/Skillfactory_RDS/tree/main/Project-1/Figs).
+* Анализ данных и построение графиков, которое выполняется с использованием библиотеки plotly.express сохраняется в HTML для скачивания и просмотра через веб-браузер. [Figs](hhttps://github.com/mazurandrii92/Skillfactory_RDS/tree/main/Project-1/Figs).
 ---
 ## ЗАКЛЮЧЕНИЕ
 
